@@ -1,3 +1,7 @@
+# AWS Infrastructure Overview
+
+![AWS Infrastructure Diagram](aws.png)
+
 ## Requirements
 
 | Name | Version |
@@ -898,5 +902,6 @@ No modules.
 | <a name="output_private_s3_bucket_name"></a> [private\_s3\_bucket\_name](#output\_private\_s3\_bucket\_name) | output of private s3 bucket name |
 | <a name="output_public_s3_bucket_name"></a> [public\_s3\_bucket\_name](#output\_public\_s3\_bucket\_name) | output of public s3 bucket name |
 | <a name="output_s3_vpc_endpoint_id"></a> [s3\_vpc\_endpoint\_id](#output\_s3\_vpc\_endpoint\_id) | vpc Endpoint ID |
+
 
 
